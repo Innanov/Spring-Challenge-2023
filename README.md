@@ -20,4 +20,5 @@ In this lab we’ll dive into Error Correction, starting from how it’s used on
 In the final lab we’ll explore how to combine our knowledge of dynamic circuits and error correction to create a GHZ state on one of IBM’s 127-qubit processors. You will try to modify the GHZ state with additional qubits as stabilizers. Please have patience, no one has ever offered a quantum computer of this type to the public before!
 
 ## My score:
-![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/9af76c4f-b6a8-4adc-8661-f4662242f750)
+<!--- ![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/9af76c4f-b6a8-4adc-8661-f4662242f750) --->
+![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/8878e20f-e155-4dc3-845f-eacf8776295b)
