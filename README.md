@@ -1,6 +1,6 @@
 # IBM Quantum Spring Challenge 2023
 
-![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/01cb66bf-b46d-4003-aedc-ee1d6fe3aba0)
+![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/25efc88d-3ff9-41df-9d4f-c765b8b74cb2)
 [https://challenges.quantum-computing.ibm.com/spring-2023]
 
 ## Labs: 
@@ -19,6 +19,8 @@ In this lab we’ll dive into Error Correction, starting from how it’s used on
 - [x] Lab 5: U127Q System
 In the final lab we’ll explore how to combine our knowledge of dynamic circuits and error correction to create a GHZ state on one of IBM’s 127-qubit processors. You will try to modify the GHZ state with additional qubits as stabilizers. Please have patience, no one has ever offered a quantum computer of this type to the public before!
 
+![ibm_sherbrooke_calibrations_readout_error_ecr_map_2023-05-22T14_10_44Z](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/e47f8b82-02ce-493e-bbc1-1edbe95c04ae)
+
 ## My score:
-<!--- ![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/9af76c4f-b6a8-4adc-8661-f4662242f750) --->
-![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/8878e20f-e155-4dc3-845f-eacf8776295b)
+![image](https://github.com/Innanov/Spring-Challenge-2023/assets/64653897/51327099-0061-493f-a3f9-32499110c592)
+
